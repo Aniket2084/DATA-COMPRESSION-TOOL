@@ -86,3 +86,5 @@ You can then run the program again to decompress and recover the original text.
 
 # For Compression 
 
+![Image](https://github.com/user-attachments/assets/e4082c51-0450-4e5b-8d4c-e49f69ab3890)
+
