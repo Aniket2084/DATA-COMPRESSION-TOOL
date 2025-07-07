@@ -83,3 +83,6 @@ You give the input file (like input.txt) and output file name (like compressed.t
 The program compresses the content using RLE.
 
 You can then run the program again to decompress and recover the original text.
+
+# For Compression 
+
