@@ -88,6 +88,10 @@ You can then run the program again to decompress and recover the original text.
 
 ![Image](https://github.com/user-attachments/assets/e4082c51-0450-4e5b-8d4c-e49f69ab3890)
 
+**input.txt**
+
+![Image](https://github.com/user-attachments/assets/e7278b51-9337-4053-879e-c6c2467e764a)
+
 **output.txt**
 
 ![Image](https://github.com/user-attachments/assets/0d826b37-a670-440c-bce0-a233dabbe4d1)
