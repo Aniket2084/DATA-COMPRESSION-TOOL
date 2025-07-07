@@ -95,3 +95,7 @@ You can then run the program again to decompress and recover the original text.
 **output.txt**
 
 ![Image](https://github.com/user-attachments/assets/0d826b37-a670-440c-bce0-a233dabbe4d1)
+
+# For Decompression 
+
+
