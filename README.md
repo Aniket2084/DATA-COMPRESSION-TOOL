@@ -100,4 +100,10 @@ You can then run the program again to decompress and recover the original text.
 
 ![Image](https://github.com/user-attachments/assets/41377a11-4162-4d8c-8a40-7c940f30bef1)
 
+**input.txt**
+
+![Image](https://github.com/user-attachments/assets/35ecab10-42ee-4413-adf6-eec1e231bf09)
+
+**output.txt**
+
 
